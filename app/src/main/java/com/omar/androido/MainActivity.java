@@ -1,4 +1,4 @@
-package com.qurani.courses.androido;
+package com.omar.androido;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
